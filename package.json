@@ -1,5 +1,5 @@
 {
-  "name": "header parser",
+  "name": "headerparser",
   "version": "1.0.1",
   "description": "A small application that shows browser info",
   "main": "server.js",
